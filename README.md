@@ -64,17 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Solar-Log GmbH is a German company providing photovoltaic system monitoring, smart energy management, feed‑in management and related services. Their platform offers hardware and cloud‑based solutions such as Solar‑Log WEB, Enerest™ and WEB‑4U, supporting over 3000 inverter components and deployed in more than 140 countries, helping customers optimize PV plant performance and reduce CO₂ emissions.
+Solar-Log GmbH designs and provides photovoltaic monitoring solutions and infrastructure for residential, commercial and industrial customers. Founded in 2004, the German company offers hardware and cloud platforms such as Solar-Log WEB Enerest and Solar-Log WEB‑4U, enabling real‑time data collection, analysis and management of solar energy systems worldwide. It serves over 20 countries, is part of the BKW Group, and emphasizes sustainable, Made‑in‑Germany products.
 
-**Areas:** Company · Energy · Monitoring · Solar · IoT
+**Areas:** Solar Energy · Monitoring · Photovoltaic · Germany · BKW Group
 
 ## Solar-Log GmbH on APIs.io
 
 Everything profiled for Solar-Log GmbH is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/solar-log/](https://apis.io/providers/solar-log/)** — or go straight to one of the APIs or properties below.
-
-### APIs (1)
-
-- [Solar-Log API](https://apis.io/apis/solar-log/solar-log-api/) — Solar-Log provides monitoring and management services for photovoltaic systems. No public machine‑readable API specification was found.
 
 ### Published properties
 
@@ -92,31 +88,34 @@ Authentication, trust centre, and vulnerability disclosure.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://solar-log.com/)
-- [Support](https://www.solar-log.com/support)
+- [Documentation](https://www.solar-log.com/en/)
+- [Support](https://www.solar-log.com/en/support/)
+- [Blog](https://www.solar-log.com/en/news-center/energy-management-blog)
 - [Security](https://security.solar-log.com/)
-- [Privacy policy](https://www.solar-log.com/datenschutz/)
+- [Terms of service](https://www.solar-log.com/en/terms-and-conditions)
+- [Privacy policy](https://www.solar-log.com/en/privacy-policy)
 
 ## API Evangelist rating
 
-**Kin Score 10.3** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 15.8** — emerging · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 64.3 |
+| Discoverability | 44.6 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 9.5 |
-| Developer ergonomics | 4.8 |
-| Access clarity | 8.5 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 21.1 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 0.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -136,7 +135,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 13.1** — Energy & Utilities
+**Regulatory alignment 16.4** — Energy & Utilities
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/solar-log/](https://apis.io/providers/solar-log/).
 
